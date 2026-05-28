@@ -1,0 +1,2 @@
+CreatorID,FirstName,LastName,Email,HeadShotImage,ProfileImage,AboutMe,WorkExperience,CreatorRole
+3,Test,Creator,testcreator@ufl.edu,/sample-imgs/test/headshot.png,/sample-imgs/test/profile.png,"Hi! I am a test creator. I like design & databases.","Worked on sample magazine layouts and portfolio projects.","Graphic Designer"
